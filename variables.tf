@@ -33,3 +33,5 @@ variable "public_subnets_cidr" {
   type        = list(string)
   default     = []
 }
+
+
